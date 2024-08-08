@@ -1,0 +1,1 @@
+import{a0 as i,a4 as o,bn as s}from"./common-C8R1ltjb.js";function d(n,a,e){var r=n.get("borderRadius");if(r==null)return e?{cornerRadius:0}:null;i(r)||(r=[r,r,r,r]);var t=Math.abs(a.r||0-a.r0||0);return{cornerRadius:o(r,function(u){return s(u,t)})}}export{d as g};
